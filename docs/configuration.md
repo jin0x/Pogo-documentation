@@ -1,3 +1,3 @@
 # Configuration
 
-> This is the configuration file.
+> This is the configuration file. Add some content
