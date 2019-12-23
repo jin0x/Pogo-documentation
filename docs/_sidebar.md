@@ -1,4 +1,4 @@
 <!-- docs/_sidebar.md -->
 
 * [Home](/)
-* [Configuration](configuration.md)
+* [General Options](general.md)
