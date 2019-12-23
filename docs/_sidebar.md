@@ -7,3 +7,4 @@
 * [Leadership Page](leadership.md)
 * [Terms of Use Page](terms.md)
 * [Contact Page](contact.md)
+* [Pages](pages.md)
