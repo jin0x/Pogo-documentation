@@ -8,3 +8,5 @@
 * [Terms of Use Page](terms.md)
 * [Contact Page](contact.md)
 * [Pages](pages.md)
+* [Timber Documentation](timber-documentation.md)
+* [Theme Customization](theme-customization.md)
